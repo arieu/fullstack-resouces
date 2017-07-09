@@ -1,10 +1,18 @@
 # Fullstack Resouces
 Learning resources for front-end and back-end development
 
-Remember if this is something completely new to you, always learn the fundamentals first. Always keep in mind the multiple layers of abstraction that's created as technolgy advances and how this will affect our future as programmers, developers and engineers.   
+Remember if this is something completely new to you, always learn the fundamentals first. Always keep in mind the multiple layers of abstraction that's created as technolgy advances and how this will affect our future as programmers, developers and engineers. 
+
+When I approach any new subject I study the past, analyze the present which then only enables an opportunity to create the future.
+
+Again...
+
+  1. Study the Past.
+  2. Analyze the Present.
+  3. Created the Future.
 
 # What to Learn
-
+  * How computers work -
 
 # Where to start
 
