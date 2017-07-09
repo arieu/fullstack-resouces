@@ -7,9 +7,9 @@ When I approach any new subject I study the past, analyze the present which then
 
 Again...
 
-  1. Study the Past.
-  2. Analyze the Present.
-  3. Created the Future.
+  l. Study the Past.
+  l. Analyze the Present.
+  l. Created the Future.
 
 # What to Learn
   * How computers work -
