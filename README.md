@@ -32,9 +32,9 @@ If your a complete beginner to computer science, meaning how computers computer'
 
 # Who to Follow ```||``` just know about
 
-John Resig
-Paul Irish
-Addy Osmani
+* John Resig
+* Paul Irish
+* Addy Osmani
 
 # Websites
 
