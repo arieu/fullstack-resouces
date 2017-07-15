@@ -30,7 +30,7 @@ If your a complete beginner to computer science, meaning how computers computer'
 # Articles I Found Useful
 
 
-# Who to Follow || just know about
+# Who to Follow ```sh || ``` just know about
 
 John Resig
 Paul Irish
