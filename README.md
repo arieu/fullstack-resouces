@@ -30,4 +30,15 @@ If your a complete beginner to computer science, meaning how computers computer'
 # Articles I Found Useful
 
 
-# Who to Follow
+# Who to Follow || just know about
+
+John Resig
+Paul Irish
+Addy Osmani
+
+# Websites
+
+* [JS The Right Way](http://jstherightway.org/)
+* [The Twelve-Fator App](https://12factor.net/)
+
+# YouTube
