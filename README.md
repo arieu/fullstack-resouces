@@ -23,12 +23,12 @@ If your a complete beginner to computer science, meaning how computers computer'
 
 # Books
 
-*[Javascript Allongé](https://leanpub.com/javascriptallongesix/read)
+* [Javascript Allongé](https://leanpub.com/javascriptallongesix/read)
 
 
 # Online Learning
 
- *[Javascript the weird parts]
+ * [Javascript the weird parts]
 
 # Articles I Found Useful
 
