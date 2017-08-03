@@ -23,9 +23,12 @@ If your a complete beginner to computer science, meaning how computers computer'
 
 # Books
 
+*[Javascript Allongé](https://leanpub.com/javascriptallongesix/read)
 
-# Online Learning 
 
+# Online Learning
+
+ *[Javascript the weird parts]
 
 # Articles I Found Useful
 
@@ -42,3 +45,7 @@ If your a complete beginner to computer science, meaning how computers computer'
 * [The Twelve-Fator App](https://12factor.net/)
 
 # YouTube
+
+#Best Practices
+
+* [Twelve Factor App](https://12factor.net/)
