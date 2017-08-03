@@ -25,6 +25,9 @@ If your a complete beginner to computer science, meaning how computers computer'
 
 * [Javascript Allongé](https://leanpub.com/javascriptallongesix/read)
 
+ CS:
+ * [Concrete Abstractions: An Introduction to Computer Science Using Scheme](https://gustavus.edu/mcs/max/concrete-abstractions-pdfs/index.html)
+
 
 # Online Learning
 
@@ -46,6 +49,6 @@ If your a complete beginner to computer science, meaning how computers computer'
 
 # YouTube
 
-#Best Practices
+# Best Practices
 
 * [Twelve Factor App](https://12factor.net/)
